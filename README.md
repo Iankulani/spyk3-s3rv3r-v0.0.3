@@ -1,11 +1,10 @@
 # spyk3-s3rv3r-v0.0.3
 
 
+Spyk3‑S3rv3r‑v0.0.3 is a next‑generation cyber security server platform designed to support modern penetration testing, cyber security research, and defensive security training environments. The platform is built to provide security professionals, researchers, and cyber defense teams with a controlled infrastructure that allows them to simulate real‑world cyber environments, test defensive systems, and improve organizational resilience against digital threats.
 
-spyk3 s3rv3r v0.0.3 🕷️ SPYK3-S3RV3R v0.0.3 
-This tool combines all features from Lazy Panda and Crab-Bot into a single, comprehensive cybersecurity platform with:
-
-🔍 Core Features:
+The goal of Spyk3‑S3rv3r is not to enable malicious activity, but rather to provide a professional cyber security research and testing framework that can be used ethically within authorized environments. Security teams can deploy the server as part of cyber drills, red‑team exercises, security testing labs, and academic research projects.
+# 🔍 Core Features
 Complete IP Analysis with graphical reports (PDF/HTML)
 
 Statistical graphics generation (port statistics, traffic analysis, security metrics)
