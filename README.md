@@ -39,16 +39,17 @@ Discord bot integration with 100+ commands
 
 Multi-platform support (Windows, Linux, macOS)
 
-📊 IP Analysis Features:
-Ping analysis with latency and packet loss
+# 📊 IP Analysis Features
 
-Port scanning with service detection
+* Ping analysis with latency and packet loss
 
-Geolocation lookup
+* Port scanning with service detection
 
-Traffic monitoring with threat levels
+* Geolocation lookup
 
-Security risk assessment
+* Traffic monitoring with threat levels
+
+* Security risk assessment
 
 Statistical graphics (port distribution, traffic timeline, threat categories)
 
@@ -155,7 +156,11 @@ phishing_start_server abc12345 8080
 ```bash
 git clone https://github.com/Iankulani/spyk3-s3rv3r-v0.0.3.git
 cd spyk3-s3rv3r-v0.0.3
-```  
+```
+# How to run
+```bash
+python Spyk3‑S3rv3r‑v0.0.3.py 
+
 The tool is designed for authorized security testing only and provides comprehensive capabilities for network analysis, vulnerability assessment, and security testing.
 
 
