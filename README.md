@@ -4,40 +4,42 @@
 Spyk3‑S3rv3r‑v0.0.3 is a next‑generation cyber security server platform designed to support modern penetration testing, cyber security research, and defensive security training environments. The platform is built to provide security professionals, researchers, and cyber defense teams with a controlled infrastructure that allows them to simulate real‑world cyber environments, test defensive systems, and improve organizational resilience against digital threats.
 
 The goal of Spyk3‑S3rv3r is not to enable malicious activity, but rather to provide a professional cyber security research and testing framework that can be used ethically within authorized environments. Security teams can deploy the server as part of cyber drills, red‑team exercises, security testing labs, and academic research projects.
+
 # 🔍 Core Features
-Complete IP Analysis with graphical reports (PDF/HTML)
 
-Statistical graphics generation (port statistics, traffic analysis, security metrics)
+* Complete IP Analysis with graphical reports (PDF/HTML)
 
-SSH remote command execution with session management
+* Statistical graphics generation (port statistics, traffic analysis, security metrics)
 
-REAL traffic generation (ICMP, TCP SYN/ACK, UDP, HTTP, DNS, ARP, floods)
+* SSH remote command execution with session management
 
-Nikto web vulnerability scanning with all options
+* REAL traffic generation (ICMP, TCP SYN/ACK, UDP, HTTP, DNS, ARP, floods)
 
-Social engineering suite with phishing pages (Facebook, Instagram, Twitter, Gmail, LinkedIn)
+* Nikto web vulnerability scanning with all options
 
-Credential capture and logging
+* Social engineering suite with phishing pages (Facebook, Instagram, Twitter, Gmail, LinkedIn)
 
-QR code generation for phishing URLs
+* Credential capture and logging
 
-URL shortening for phishing links
+* QR code generation for phishing URLs
 
-IP management with blocking/unblocking via firewall
+* URL shortening for phishing links
 
-Threat detection and monitoring
+* IP management with blocking/unblocking via firewall
 
-Metasploit-style auxiliary modules
+* Threat detection and monitoring
 
-Payload generation with msfvenom fallback
+* Metasploit-style auxiliary modules
 
-Workspace organization and session management
+* Payload generation with msfvenom fallback
 
-Time/Date commands with history tracking
+* Workspace organization and session management
 
-Discord bot integration with 100+ commands
+* Time/Date commands with history tracking
 
-Multi-platform support (Windows, Linux, macOS)
+* Discord bot integration with 100+ commands
+
+* Multi-platform support (Windows, Linux, macOS)
 
 # 📊 IP Analysis Features
 
@@ -55,59 +57,59 @@ Statistical graphics (port distribution, traffic timeline, threat categories)
 
 PDF and HTML report generation
 
-🚀 Traffic Generation Types:
-icmp - ICMP echo requests
+🚀 Traffic Generation Types
 
-tcp_syn - TCP SYN packets (half-open)
+* icmp - ICMP echo requests
 
-tcp_ack - TCP ACK packets
+* tcp_syn - TCP SYN packets (half-open)
 
-tcp_connect - Full TCP connections
+* tcp_ack - TCP ACK packets
 
-udp - UDP packets
+* tcp_connect - Full TCP connections
 
-http_get - HTTP GET requests
+* udp - UDP packets
 
-http_post - HTTP POST requests
+* http_get - HTTP GET requests
 
-https - HTTPS requests
+* http_post - HTTP POST requests
 
-dns - DNS queries
+* https - HTTPS requests
 
-arp - ARP requests
+* dns - DNS queries
 
-ping_flood - ICMP flood
+* arp - ARP requests
 
-syn_flood - SYN flood
+* ping_flood - ICMP flood
 
-udp_flood - UDP flood
+* syn_flood - SYN flood
 
-http_flood - HTTP flood
+* udp_flood - UDP flood
+
+* http_flood - HTTP flood
 
 mixed - Mixed traffic types
 
 random - Random traffic patterns
 
-📱 Discord Bot Commands (200+):
-!analyze_ip <ip> - Complete IP analysis
+# 📱 Discord Bot Commands (200+):
 
-!ip_stats <ip> - Generate statistics graphics
+* !analyze_ip <ip> - Complete IP analysis
 
-!ip_report <ip> - Get latest analysis report
+* !ip_stats <ip> - Generate statistics graphics
 
-!blocked - List blocked IPs
+* !ip_report <ip> - Get latest analysis report
 
-!generate_traffic - Generate real traffic
+* !blocked - List blocked IPs
 
-!nikto - Web vulnerability scanning
+* !generate_traffic - Generate real traffic
 
-!ssh_add - Add SSH server
+* !nikto - Web vulnerability scanning
 
-!ssh_exec - Execute remote commands
+* !ssh_add - Add SSH server
 
-!generate_phishing_link_for_facebook - Create phishing links
+* !ssh_exec - Execute remote commands
 
-And 100+ more commands
+* !generate_phishing_link_for_facebook - Create phishing links
 
 # 💻 Installation:
 
